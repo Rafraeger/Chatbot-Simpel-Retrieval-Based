@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chatbot Widget</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f2f5;
+    }
+
+    /* Floating Button */
+    .chat-toggle {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #00bfa5;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      font-size: 28px;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      z-index: 999;
+    }
+
+    /* Chat Widget Container */
+    .chat-container {
+      position: fixed;
+      bottom: 90px;
+      right: 20px;
+      width: 360px;
+      height: 500px;
+      background-color: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+      z-index: 1000;
+    }
+
+    .chat-header {
+      background-color: #00bfa5;
+      color: white;
+      padding: 14px;
+      text-align: center;
+      font-size: 16px;
+      position: relative;
+    }
+
+    .close-btn {
+      position: absolute;
+      right: 12px;
+      top: 12px;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 18px;
+      cursor: pointer;
+    }
+
+    .chat-box {
+      flex: 1;
+      padding: 16px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      background-color: #e5ddd5;
+    }
+
+    .message {
+      max-width: 75%;
+      padding: 10px 14px;
+      border-radius: 16px;
+      font-size: 14px;
+      line-height: 1.4;
+      word-wrap: break-word;
+    }
+
+    .user {
+      align-self: flex-end;
+      background-color: #dcf8c6;
+      border-bottom-right-radius: 0;
+    }
+
+    .bot {
+      align-self: flex-start;
+      background-color: #fff;
+      border-bottom-left-radius: 0;
+    }
+
+    .chat-input {
+      display: flex;
+      padding: 10px;
+      border-top: 1px solid #ddd;
+      background-color: #f9f9f9;
+    }
+
+    .chat-input input {
+      flex: 1;
+      padding: 10px 14px;
+      border: 1px solid #ccc;
+      border-radius: 20px;
+      font-size: 14px;
+      outline: none;
+    }
+
+    .chat-input button {
+      margin-left: 10px;
+      padding: 10px 16px;
+      background-color: #00bfa5;
+      color: white;
+      border: none;
+      border-radius: 20px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .chat-input button:hover {
+      background-color: #009e86;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Chat Toggle Button -->
+  <button class="chat-toggle" onclick="toggleChat()">💬</button>
+
+  <!-- Chat Widget -->
+  <div class="chat-container" id="chatWidget">
+    <div class="chat-header">
+      Chatbot SIMPEL
+      <button class="close-btn" onclick="toggleChat()">✕</button>
+    </div>
+    <div id="chat-box" class="chat-box"></div>
+    <div class="chat-input">
+      <input type="text" id="input" placeholder="Tulis pesan..." onkeydown="if(event.key==='Enter') sendMessage();" />
+      <button onclick="sendMessage()">Kirim</button>
+    </div>
+  </div>
+
+  <script>
+    function toggleChat() {
+      const widget = document.getElementById("chatWidget");
+      widget.style.display = widget.style.display === "flex" ? "none" : "flex";
+    }
+
+    function appendMessage(text, sender) {
+      const chatBox = document.getElementById("chat-box");
+      const msg = document.createElement("div");
+      msg.className = "message " + sender;
+      msg.textContent = text;
+      chatBox.appendChild(msg);
+      chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    function sendMessage() {
+      const input = document.getElementById("input");
+      const message = input.value.trim();
+      if (!message) return;
+
+      appendMessage(message, "user");
+      input.value = "";
+
+      fetch("http://localhost:8000/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message })
+      })
+      .then(res => res.json())
+      .then(data => appendMessage(data.reply, "bot"))
+      .catch(() => appendMessage("❌ Gagal menghubungi server.", "bot"));
+    }
+  </script>
+
+</body>
+</html>

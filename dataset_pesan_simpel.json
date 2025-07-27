@@ -1,0 +1,1158 @@
+[
+  {
+    "input": "Akun Simpel tidak bisa loging apa ada masalah di Server. Pasword dan user name saya tidak dirubah.",
+    "output": "mohon informasikan Username dan ID SIMPEL. untuk kami cek lebih lanjut. terima kasih"
+  },
+  {
+    "input": "Saya sudah mendaftar untuk simpel",
+    "output": "bapak/ibu jika sudah memiliki akun simpel mohon diinformasikan id simpel nya, terima kasih"
+  },
+  {
+    "input": "Dear Admin SIMPEL KLHK, Mohon arahan dan bantuannya untuk akun SIMPEL Kebun Sei Kopas PT Perkebunan Nusantara IV, dikarenakan admin unit tidak bisa menggunakan password yang lama per Juli 2024 dengan username: ptpn-kebun-sei-kopas . Kendala berikutnya ialah email yang didaftarkan untuk fitur lupa password sudah tidak diketahui lagi. Demikian disampaikan. Besar harapan kami untuk mendapatkan arahan tindak lanjut untuk perbaikan akun. Atas perhatian dan kerjasamanya diucapkan terimakasih.",
+    "output": "baik, untuk username nya masih sama : ptpn-kebun-sei-kopas dan password barunya: 38FPPG"
+  },
+  {
+    "input": "Selamat Pagi Bapak/Ibu, Mohon kiranya dapat dibantu untuk user dan password saya sampai dengan hari ini belum Keluar. Nomor Registrasi : 68306, Nama : Ali Umar, Perusahaan/Instansi : PT. Industri Prima Lestari. Kami sudah mendaftar pada tanggal 9 Juni 2025 dan sudah melewati 14 hari kerja, karena kami sampai sekarang belum mendapatkan username dan password. Mohon kiranya dapat dibantu untuk dikirimkan username password Bapak/Ibu Terimakasih,",
+    "output": "Segera diproses kaka"
+  },
+  {
+    "input": "mohon untuk di proses akun pendafataran saya",
+    "output": "Silakan kirimkan nomor registrasi dan nama perusahaan"
+  },
+  {
+    "input": "Pengajuan akun saya kenapa belum ya? Sudah 14 hari kerja",
+    "output": "Mohon untuk konfirmasi nomor registrasi dan nama perusahaan"
+  },
+  {
+    "input": "industriprimalestari@gmail.com",
+    "output": "Selamat siang Bapak/Ibu, untuk username dan password sudah kami kirim ke Email yang terdaftar ya, silahkan dicek emailnya. Terimakasih"
+  },
+  {
+    "input": "cara mendaftar aku simpel",
+    "output": "untuk tutorial mendaftar akunnya silahkan buka link youtube ini https://www.youtube.com/watch?v=jtGpxK-p2Js ,terima kasih"
+  },
+  {
+    "input": "Login tidak bisa dan sudah reset password namun tetap saja tidak bisa untuk login, solusinya seperti apa?",
+    "output": "Silakan kirimkan id simple nya dan nama perusahaan, agar kami dapat mengirimkan password baru."
+  },
+  {
+    "input": "mohon dibantu kami udah melakukan regitrasi pembuatan akun simpel PT Vinilon Jaya Sakti",
+    "output": "Sudah dibuatkan akunnya, terima kasih"
+  },
+  {
+    "input": "saya tidak bisa login padahal username dan password yang dimasukkan sudah sesuai yaitu: username: habe password: F9DMM8",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya. Untuk masalah Anda, Kami sudah melakukan reset ulang password pada akun Bapak/Ibu, ini password terbarunya : BD9678, untuk usernamenya masih sama, silahkan dicoba login kembali ya Bapak/Ibu, Terimakasih."
+  },
+  {
+    "input": "Selamat pagi bapak/ibu pengelola akun simpel, izin memperkenalkan diri saya Naila staff kesehatan lingkungan dari RS Permata Gunung Putri, izin pak/bu.. Saya sudah proses registrasi akun simpel, awalnya tertera bahwa akun simpel RS Permata Gunung Putri akan di verifikasi sampai tanggal 25 Juni, tetapi per hari ini saya lihat bahwa keterangannya menghubungi email atas nama svwanda25@gmail.com. Berikut untuk Nomor Registrasinya : 70049 Langkah selanjutnya bagaimana ya pak/bu..? Mohon arahannya, Trimakasih..",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, kami sudah melakukan pembuatan akun untuk RS Permata Gunung Putri, ini untuk usernamenya : rs-permata-gn-putri passwordnya : 4AH9F8 . Atau Bapak/Ibu bisa mengecek username dan password yang sudah kami kirimkan di email yang terdaftar saat melakukan registrasi. Terimakasih."
+  },
+  {
+    "input": "tgl bisa login, ada notif user name/password salah. pdhal password tdk pernah di ganti",
+    "output": "Silakan kirimkan id simple nya dan nama perusahaan, agar kami dapat mengirimkan password baru."
+  },
+  {
+    "input": "sudah menunggu lebih dari 14 hari kerja, tetapi belum mendapatkan kabar melalui email terkait username & password untuk akses ke SIMPEL, bagaimana ya? untuk nomor registrasi 69994, mohon bantuannya, terima kasih.",
+    "output": "Kami sudah melihat daftar registrasi akun SIMPLE 69994. Dari data kami perusahaan Ibu/Bapak belum melengkapi formulir registrasi. Kami sudah mengirimkan email kembali untuk melengkapi formulir registrasi."
+  },
+  {
+    "input": "username & password kami dengan no registrasi : 69935 blm kami terima, mohon utk di proses registrasi kami...terimakash",
+    "output": "baik, sudah diperoses mohon cek email untuk username dan passwordnya, terima kasih"
+  },
+  {
+    "input": "Sudah mendaftar tetapi akun dan pw belum dikirim ke email",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong diinfokan untuk nomor registrasi dan nama perusahannya ?, Terimakasih"
+  },
+  {
+    "input": "Selamat Sore. Saya Rizaldi Alfarizi. Saya konsultan PT Transt Surya Lestari Internasional. Kami sedang menangani klien kami, PT Aneka Petroindo Raya, untuk pembuatan akun SIMPEL. Namun, sampai saat ini belum juga terbit username & passwordnya. Akun SIMPEL yang kami registrasikan adalah sebagai berikut : 1. PT Aneka Petroindo Raya - SPBU BP Margasatwa Barat | No. Registrasi : 69526 2. PT Aneka Petroindo Raya - SPBU BP Karang Tengah | No. Registrasi : 69529 3. PT Aneka Petroindo Raya - SPBU BP JGC | No. Registrasi : 69530 4. PT Aneka Petroindo Raya - SPBU BP Dago | No. Registrasi : 69532 5. PT Aneka Petroindo Raya - SPBU BP Citra Palem | No. Registrasi : 69535 6. PT Aneka Petroindo Raya - SPBU BP Padjajaran | No. Registrasi : 69578 Mohon ditindaklanjuti. Terimakasih atas kerjasamanya.",
+    "output": "Kami sudah membuat akun SIMPLE nya. Silakan cek email masing masing perusahaan"
+  },
+  {
+    "input": "apakah akun simpel sama dengan akun Speed?",
+    "output": "Berbeda Bapak/Ibu"
+  },
+  {
+    "input": "tidak bisa masuk ke akun , minta tolong dibantu",
+    "output": "mohon informasikan Username dan ID SIMPEL. untuk kami cek lebih lanjut. terima kasih"
+  },
+  {
+    "input": "Nomor registrasi 65117, mendapat note Registrasi Ditunda pada tgl 17 maret lalu mengupload ulang dokumen perbaikan pada tgl 15 april. Namun sampai saat ini status nya masih Registrasi Ditunda.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu untuk nama perusahannya Bapak/Ibu ?"
+  },
+  {
+    "input": "Akun simpel kami belum ada update, mohon tanggapannya",
+    "output": "Mohon untuk di informasikan nomor registrasi dan nama perusahaan, terima kasih"
+  },
+  {
+    "input": "belum dibuatkan akun simpel",
+    "output": "Selamat pagi bapak/ibu mohon maaf atas keterlambatan sistem kami, untuk masalah anda mohon berikan nama perusahaan dan nomor registrasinya untuk segera kami bantu buatkan akunnya"
+  },
+  {
+    "input": "User name dan password untuk akses ke simpel belum di terima, sedangkan kalau dilacak tertulis registrasi berhasil. Minta tolong dikirimkan ulang ke alamat email tawekal.suburjaya@gmail.com. no registrasi : 68365 nama : Jo sek jong perusahaan : PT TAWEKAL SUBUR JAYA",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan assigment ulang, silahkan dicek kembali emailnya ya. Terimakasih"
+  },
+  {
+    "input": "Selamat Pagi Bapak/Ibu, Mohon kiranya dapat dibantu untuk user dan password saya sampai dengan hari ini belum Keluar. Tetapi kalau saya lacak registrasi akun, mengapa statusnya sudah dikirim ya? Nomor Registrasi : 68306 Nama : drg. Najib Albana Daulay Perusahaan/Instansi : Praktik drg. Najib Albana Daulay Kami sudah mendaftar pada tanggal 9 Mei 2025 dan sudah melewati 14 hari kerja, karena kami sampai sekarang belum mendapatkan username dan password. Mohon kiranya dapat dibantu untuk dikirimkan username password Bapak/Ibu Terimakasih,",
+    "output": "Mohon di cek emailnya sudah kami kirim password dan usernamenya, terima kasih"
+  },
+  {
+    "input": "lupa password, dan email perusahaan tidak terdaftar",
+    "output": "selamat pagi bapak/ibu biar saya coba bantu masalah ini, mohon untuk kirimkan kami nama perusahaan dan nomor id simpelnya untuk segera kami lakukan reset password dan email perusahaannya"
+  },
+  {
+    "input": "Sehubungan dengan telah dilakukannya perubahan nama perusahaan kami menjadi PT Astemo Bekasi Brake Systems, berdasarkan Akta No.19 tanggal 14 April 2025 Notaris Dharmawan Tjoa Notaris di jakarta Pusat, Maka dari itu kami mengajukan perubahan nama pada akun simple menjadi PT Astemo Bekasi Brake Systems",
+    "output": "Selamat Pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong diinfokan untuk nama persuhaannya lamanya beserta ID SIMPELnya ?, agar kami bisa melakukan perubahan nama, terimakasih"
+  },
+  {
+    "input": "Akun saya tidak bisa di lupa password dengan nama Puskesmas Gunung Sari",
+    "output": "Boleh tolong dibantu untuk ID Simpelnya Bapak/Ibu, dikarenakan di data kami ada banyak nama yang memiliki Puskesmas Gunung Sari"
+  },
+  {
+    "input": "Registrasi email berhasil, namun email dan password belum dikirimkan ke kami",
+    "output": "Mohon untuk di informasikan nomor registrasi dan nama perusahaan, terima kasih"
+  },
+  {
+    "input": "Akun simpel Surya Dhoho Investama tidak dapat login",
+    "output": "selamat pagi bapak/ibu untuk masalah ini sudah kami bantu untuk perubahan passwordnya dan dikirim ke email bapak/ibu silahkan di cek di emailnya"
+  },
+  {
+    "input": "saat akan login, muncul notif username/password salah. pdhal password tdk pernah di rubah. klik lupa password dan masukkan alamat email, ada notif email tdk terdaftar. mohon di bantu",
+    "output": "selamat pagi bapak/ibu untuk masalah ini biar coba kami bantu, mohon untuk kirimkan kami nama perusahaan dan id simpel untuk segera kami lakukan reset password"
+  },
+  {
+    "input": "Mohon informasi registrasi yang kami ajukan , trims",
+    "output": "Silakan mengirimkan nomor registrasi dan nama perusahaan"
+  },
+  {
+    "input": "apakah pengisi laporan bisa ditulis data konsultan ? jadi bukan karyawan internal",
+    "output": "Bapak/Ibu untuk pengisi laporan diwajibkan personil yang tersertivikasi (PPPA, PPPU, dan perosnil tersertivikasi PLB3). Terimakasih"
+  },
+  {
+    "input": "username dan password belum dikirim namun sudah lebih dari 14 hari pendaftaran",
+    "output": "Mohon untuk di informasikan nomor registrasi dan nama perusahaan, terima kasih"
+  },
+  {
+    "input": "Kami telah mengajukkan permohonan akun untuk perusahaan sejak tanggal 9 Mei 2025, dengan nomor registrasi 68368, hingga saat ini kami belum menerima username dan password",
+    "output": "Sudah kami buatkan akun SIMPLE, pada 14 Mei 2025, Silakan mengecek akun email perusahaan untuk melihat username dan password"
+  },
+  {
+    "input": "hallo saya tidak bisa login mohon dibantu",
+    "output": "selamat pagi bapak/ibu mohon kirimkan nama perusahaan dan id simpelnya untuk kami bantu reset password"
+  },
+  {
+    "input": "Saya telah mendaftarkan akun dengan alamat pendaftar bambang.setiawan@patra-jasa.com atas nama PT Patra Jasa dengan nama pendaftar Bambang Setiawan pada tanggal 5 Juni 2025. Namun hingga saat ini belum mendapatkan email lagi terkait akun ESIMPEL. Mohon bantuannya, terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, kami sudah melakukan pembuatan akun untuk perusahaan Bapak/Ibu, untuk username dan password bisa dicek di email yang terdaftar, terimakasih."
+  },
+  {
+    "input": "Semangat pagi ... Kami sudah melakukan pendaftaran SIMPEL pada tanggal 27 Mei 2025, tapi sampai sekarang belum mendapatkan user name dan password. Kami harapkan kejelasannya atas hal tersebut. Terimakasih.",
+    "output": "Mohon dibantu untuk nomor registrasi dan nama perusahaannya, terima kasih"
+  },
+  {
+    "input": "Konfirmasi pendaftaran akun SIMPEL no registrasi : 70558 sudah sampai mana dan butuh waktu berapa lama?",
+    "output": "Selamat pagi Bapak/Ibu. Kami sudah mengirimkan email kepada perusahaan untuk melengkapi persyaratan formulir registrasi"
+  },
+  {
+    "input": "No reg 70514, sudah 14 Hari kerja namun belum mendapatkan feedback username Dan password",
+    "output": "Selamat pagi bapak/ibu untuk perusahaan atas nama PT SENTRA MITRA ADIDAYA dengan id simpel 70514 sudah kami buatkan akunnya silahkan di cek di emailnya, maaf atas keterlambatan sistem kami"
+  },
+  {
+    "input": "Saya pernah daftar di simpel untuk klinik pratama kurnia sehat tapi lupa username dan passwordnya",
+    "output": "Selamat Pagi Bapak/Ibu, untuk akunnya sudah kami reset ulang passwordnya, untuk passwordnya : yang terbaru : 9F98NH. silahkan dicoba login kembali, terimakasih"
+  },
+  {
+    "input": "Saya belum mendapatkan username dan password dari simpel klhk",
+    "output": "Selamat Pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun SIMPEL ulang, silahkan dicek kembali email yang terdaftar ya. Terimakasih"
+  },
+  {
+    "input": "mau tanya mengenai update pendaftaran akun simpel kami sudah sampai dimana prosesnya",
+    "output": "Selamat pagi Bapak/Ibu, kami sudah assigment akun SIMPLE. Silakan mengecek email perusahaan untuk melihat username dan password"
+  },
+  {
+    "input": "Dengan Hormat, Kami telah melakukan regirstrasi untuk pendaftaran akun E-simple dengan Nomor Registrasi : 68959 Nama : SIGIT BUDI PRASETYO Sampai dengan saat ini kami belum menerima email terkait verifikasi akun tersebut sudah aktif atau belum dari KLHK. Mohon arahannya terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendalanya, kami sudah melakukan pembuatan akun ulang, untuk username dan password silahkan dicek kembali email yang terdaftar. Terimakasih"
+  },
+  {
+    "input": "PAK/IBU KAMI DARI PT HUTAHAEAN TELUK-SONO MEMOHON AGAR MENGGANTI EMAIL LAMA MENJADI EMAIL YANG BARU. SOALNYA EMAIL YANG LAMA SUDAH TIDAK AKTIF LAGI.MOHON PERHATIANNYA PAK/IBU AGAR KAMI DAPAT MENDAFTAR KE OSS",
+    "output": "Sudah kami ganti emailnya, mohon cek emailnya, terima kasih"
+  },
+  {
+    "input": "Ijin menanyakan terkait pembuatan akun SIMPEL LHK yang kami ajukan menggunakan email pgj.admin@topformbras.com sudah sampai proses mana",
+    "output": "Selamat Pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya, silahkan dicek kembali pada email yang terdaftar, terimakasih"
+  },
+  {
+    "input": "izin min, mengapa user dan pasword belum di kirim ke email kami ya? sudah melebihi 14 hari min",
+    "output": "Selamat Pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya, kami sudah melakukan pembuatan akun SIMPEL, untuk username dan password silahkan dicek kembali email yang terdaftar ya, terimakasih"
+  },
+  {
+    "input": "registrasi akun dengan nomor 69748 atas nama PT. HET WAREN HUIS kenapa belum bisa. padahal sudah lebih 14 hari pendaftaran. saat dilakukan lacak proses justru disuruh emnghubungi pengelola simpel dengan email suwwanda@gmail.com. kami sudah melakukan email tetapi justru muncul notofokasi kalau email tidak ditemukan. solusinya bagaiman?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, kami sudah melakukan pembuatan akun ulang, silahkan dicek kembali email yang terdaftar ya, Terimakasih"
+  },
+  {
+    "input": "selamat pagi, izin menanyakan username dan passwaord simpel puskesmas talang jawa. smpai dengan saat ini kami belum menerima username dan password. kami mohon untuk segera dikirim. terimakasih",
+    "output": "Selamat Pagi, mohon maaf atas kendala yang dialaminya, kami sudah melakukan pembuatan akun ulang, silahkan dicek kembali pada email yang terdaftar ya, Terimakasih"
+  },
+  {
+    "input": "selamat siang, mohon dibantu, email akun simpel kami, kami mau registrasi speed tp tidak sesuai dengan email simpel seharusnya email speed sama seperti email simpel (tunashondasabak@gmail.com). ini akun speed kami kenapa beda email ya? mohon dibantu perbaiki ya pak akun simpel kami tunashondasabak@gmail.com akun speed yang terkoneksi ke akun simpel kami email nya drmuharrezapraktek@gmail.com",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong diinformasikan untuk nama perusahaannya dan ID SIMPELnya"
+  },
+  {
+    "input": "permintaan Username dan Password Akun SIMPLE",
+    "output": "selamat siang bapak/ibu mohon untuk dikirim nama perusahaan dan kode registrasinya untuk kami bantu mengenai username dan passwordnya"
+  },
+  {
+    "input": "Tidak Bisa Login Aplaikasi SIMPEL",
+    "output": "Selamat siang bapak/ibu mohon dikirim nama perusahaannya untuk kami bantu login dan reset password mengenai akun simpelnya"
+  },
+  {
+    "input": "halo selamat siang, saya mau nanya status pendaftaran akun simpel atas nama CV ABADI SALIM ANGGADA email justinsalim@gmail.com terima kasih",
+    "output": "Bapak/Ibu sudah kami buatkan akunnya, silahkan cek emailnya, terima kasih"
+  },
+  {
+    "input": "Tidak bisa login di website https://simpel.menlhk.go.id/2023/landing Mohon untuk dibantu. Terima kasih",
+    "output": "Selamat pagi, mohon maaf atas kendalanya, domain yang kami gunakan sekarang berubah menjadi https://simpel.kemenlh.go.id/2023/login . Mohon diinformasikan kakak tidak bisa login karena apa ? password atau username yang salah ?. Terimakasih"
+  },
+  {
+    "input": "Daftar",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "tidak bisa login speed/simpel",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Yang tidak bisa login speed atau simple saja ? Terimakasih"
+  },
+  {
+    "input": "sudah registrasi tetapi belum mendapat balasan email untuk username dan password",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "menerangkan bahwa username dan pw belum di kirimkan padahal status registrasi selesai",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong diinformasikan untuk No Registrasi dan nama perusahaannya, dikarenakan kami mencari berdasarkan email dan nama Bapak/Ibu tidak tersedia. Terimakasih"
+  },
+  {
+    "input": "Kami mau konsultasi tentang cara mengedit data yang telah diinput di simpel dan speed. Boleh minta kontak person admin nya.",
+    "output": "Selamat pagi Bapak/Ibu, berikut kontak admin kami ialah : +62 813-1719-1993 atas nama Aminullah PLB3, terimakasih"
+  },
+  {
+    "input": "Untuk Username dan password nya belum keluar, sudah lewat dari 14 hari kerja tetapi username dan password masih belum keluar, saya sudah lacak dari nomor registrasinya dengan keterangan masih dalam antrian, mohon dibantu untuk kendalanya kenapa username dan passwordnya belum keluar. Terima Kasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "mohon ijin untuk bisa mengirimkan username & pasword akun simpel klinik gumilang larasati. kami telah menyelesaikan registrasi terhitung tanggal 21 mei 2025. terimakasih atas perhatiannya.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Saya sudah pernah daftar tapi tidak bisa donnload waktu itu. bagaimana caranya biar bisa register ?",
+    "output": "Silahkan mengikuti tutorial pada link website landing SIMPEL ya, berikut linknya : https://simpel.kemenlh.go.id/2023/login Terimakasih"
+  },
+  {
+    "input": "Selamat siang pak, mau bertanya saya dari klinik rawat inap tirta medical centre tabalong..kapan kami bisa mendapatkan akun simpel pak,,kami sdah daftar kemarin dan sdah menunggu 14 hari tetapi belum mendapatkan akun nya juga..mohon segera ditanggapi ya pak..karena perlu untuk input data",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Mohon maaf ijin menanyakan kami sudah registrasi akun Simpel, dan untuk statusnya Registrasu Selasai, akan tetapi sampai saat ini kami belum mendapatkan username dan pasword, mohon solusinya. apakah bisa di bantu di kirimkan ulang email terkait username dan pasword? berikut nomor registrasi kami 69286. Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Selamat pagi Bapak/Ibu, Saya sudah melakukan registrasi kira-kira satu minggu yang lalu, akan tetapi sampai hari ini 16 Juni 2025, saya belum mendapatkan balasan email terkait registrasi yang saya lakukan. Hari ini saya mencoba registrasi ulang. Mohon bantuannya Bapak/Ibu. Terimakasih.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Boleh dibantu diinformasikan Nomor Registrasi dan nama Perusahaannya ?, Terimakasih"
+  },
+  {
+    "input": "Yth Bapak/ Ibu Saya Lutfi dari PT Popular Daenong Indonesia. saya sedang melakukan pengisian Profil Perusahaan pada SIMPEL, tetapi pada bagian titk koordinat selalu muncul \"Tempatkan Titik pada batas wilayah\" sedangkan titik yang sudah saya tempatkan sudah sesui dengan google maps. mohon arahannya. Terimakasih",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Bapak/Ibu terlebih dahulu pastikan browser yang digunakan sudah mengizinkan mengakses lokasi, atau lokasi perusahaan Bapak/ibu bisa ditentukan dengan mengakses peta di SIMPEL, dan meletakkan titiknya yang sesuai."
+  },
+  {
+    "input": "Selamat siang, saya Hanif dari PT Sinar Mamberamo Jaya Wijaya. pada tanggal 13-06-2025 dan 16-06-2025 saya mengajukan registrasi Simpel tetap dalam proses pendaftaran tidak notifikasi apakah berhasil atau tidak. mohon info apakah registrasi yang saya ajukan berhasil dan berapa lama proses registrasi Simpel?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu diinformasikan Nomor Registrasinya ? dikarenakan ketika kami mencari berdasarkan nama perusahaan Bapak/Ibu tidak ada datanya pada database registrasi kami. Atau Bapak/Ibu bisa melakukan registrasi ulang, terimakasih"
+  },
+  {
+    "input": "MOHON DI VERIVIKASI PENDAFTARAN AKUN SIMPEL SAYA MIN, KARENA KAMI BUTUH SEGERA ID SIMPEL UNTUK PENGAJUAN PERTEK MIN.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Mohon Bantuan Untuk Status Registrasi Kami Yang Tertuda Nomor Registrasi : 61795",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Saya mau login amdalnet melalui akun simpel tidak bisa kenapa? mohon penjelsannya",
+    "output": "Selamat Pagi Bapak/Ibu, untuk login SIMPEL melalui AMDALNET belum dapat diakomodir,. Apabila belum memiliki akun AMDALNET, sialhkan membuat akun AMDALNET di portal AMDALNET. Terimakasih"
+  },
+  {
+    "input": "Selamat Pagi, mohon maaf ijin menanyakan terkait kendala di akun SIMPEL kami, untuk penulisan nama perusahaan sudah betul menggunakan nama PT. CHAROEN POKPHAND JAYA FARM (Unit Hatchery Sidoluhur) dengan ID : 61964 pada sistem SIMPEL, akan tetapi saat masuk di menu SPEED nama perusahaan berubah drmuharrezapraktek@gmail.com. mohon bantuannya",
+    "output": "Selamat Pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya. akses SPEED sekarang sudah bisa diakses dengan benar. Silahkan dicoba kembali. Terimakasih"
+  },
+  {
+    "input": "lupa password",
+    "output": "Selamat Pagi Bapak/Ibu, boleh tolong dibantu diinformasikan ID SIMPEL atau Nomor Registrasi atau Nama Perusahannya ? Terimakasih"
+  },
+  {
+    "input": "sudah mendaftarkan akun atas nama PT. Mitralindo Bintang Jaya sejak 28 Mei, namun belum memiliki password dan akun",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "belum mendapatkan username dan password",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih"
+  },
+  {
+    "input": "Saya sudah mendaftar, namun sudah lebih dari 14 hari, belum ada konfirmasi selanjutnya",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Jika tidak mempunyai User dan Password di Amdalnet. Itu bagaimana cara menyinkronkannya? Saya Login Amdalnet memakai akun OSS dan saya coba disini tidak bisa",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "SAYA BELUM MENDAPAT EMAIL..UNTUK AKUN",
+    "output": "Selamat siang Bapak/Ibu terkait pembuatan akun kami sudah buatkan. Silakan cek email terdaftar untuk melihat username dan password"
+  },
+  {
+    "input": "Terkait sudah membuat akun SIMPEL tapi belum ada kabarnya, sudah lewat dari 2 minggu",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Klik yang mana ya?",
+    "output": "Selamat siang Bapak/Ibu, silakan ajukan pertanyaan yang dapat saya bantu"
+  },
+  {
+    "input": "mohon di bantu pendaftaran akun simpel saya di segerakan. Nomor Registrasi : 70679 Nama : Muhammad Dani Romadhon Perusahaan/Instansi : PT. MAKIN MANDIRI LOGAM saya ada MOU untuk pengangkutan limbah b3 , tenggat waktu sudah lewat dari seharusnya. mohon bantuanya",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "formulir registrasi simpel tidak bisa di buka setealah di download",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya. Silahkan dicoba membuka formulir registrasi dengan software microsoft word atau wps atau google docs. Terimakasih"
+  },
+  {
+    "input": "ketika saya submit selalu ada notif tempatkan titik dalam batas wilayah itu maksudnya apa ya",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Bapak/Ibu terlebih dahulu pastikan browser yang digunakan sudah mengizinkan mengakses lokasi, atau lokasi perusahaan Bapak/ibu bisa ditentukan dengan mengakses peta di SIMPEL, dan meletakkan titiknya yang sesuai."
+  },
+  {
+    "input": "Kenapa setelah berhasil mendaftar akun belum dikirimkan ke email",
+    "output": "Selamat siang Bapak/Ibu. Terkait hal tersebut setelah mendaftar dapat menunggu 14 hari kerja setelah mendaftar. Silakan cek email untuk username dan password"
+  },
+  {
+    "input": "selamat siang, saya dari RS Pertamina Panorama Balikpapan ijin menyampaikan kami lupa user name tapi masih mengingat passwordnya",
+    "output": "Selamat siang Bapak/Ibu. Terkait permasalahan tersebut kami mengirimkan username akun yaitu \"rs-pertamina-panorama-balikpapan\""
+  },
+  {
+    "input": "bagaimana cara mengintegrasikan akun simpel dengan oss/amdalnet. karena saya coba login dg akun oss tidak bisa sedangkan jika saya login akun amdalnet pakai akun oss bisa.",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "kami sudah melakukan registrasi akun simpel tetapi tidak pernah di verifikasi",
+    "output": "Selamat siang Bapak/Ibu mohon maaf atas kendala yang dialaminya, Boleh tolong dibantu diinformasikan untuk nama perusahaannya dan Nomor Registrasinya, dikarenakan ketika kami mencari berdasarkan email dan nama yang anda gunakan ketika kami mencarinya tidak ada. Terimakasih"
+  },
+  {
+    "input": "Belum terima username dan password atas nama PT Bando Electronics Indonesia dengan nomor registrasi 70052. Terimakasih.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "mohon dibantu untuk log in username saya lupa",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username anda ialah : maxonedharmahusada dan passwordnya ialah : 5BCAP5 atau silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "username dan pasword tidak bisa mohon dibantu",
+    "output": "Selamat siang Bapak/Ibu. Terkait permasalahan tersebut silakan cek emal kembali untuk username dan password"
+  },
+  {
+    "input": "Tidak bisa login AMDALNET menggunakan akun OSS melalui halaman login simpel",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "Lupa username dan password, mohon dibantu",
+    "output": "Selamat siang Bapak/Ibu. Silakan menggunakan fitur lupa password dan menggunakan email valid saat mendaftar SIMPLE"
+  },
+  {
+    "input": "Mohon info status registrasi nomor 69367 untuk PT rigid maju bersama sudah lewat 14 hari belum ada email,sudah cek spam kosong",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih"
+  },
+  {
+    "input": "untul link baru pada simple saya tidak bisa aksess, mohon supportnya",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, saat ini kami menggunakan url https://simpel.kemenlh.go.id/2023/login Silahkan dicoba kembali, Terimakasih"
+  },
+  {
+    "input": "susah sekali melengkapi profil perusahaan.. di tolak terus..",
+    "output": "Selamat siang Bapak/Ibu. Terkait permasalahan tersebut silakan isi profil perusahaan dari awal sampai akhir dan jangan sampai ada yang terlewat"
+  },
+  {
+    "input": "Kami ingin melakukan sinkronisasi SIMPEL dengan Amdalnet/OSS. Tetapi kami hanya mempunyai akun OSS. Ketika mau kami login menggunakan username & password OSS tidak bisa",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "membuka simpel klh",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan membuka halaman SIMPEL dengan link : https://simpel.kemenlh.go.id/2023/login"
+  },
+  {
+    "input": "tidak bisa login SIMPEL",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong diinformasikan lebih lengkap ada kendala dibagian apa ?, Terimakasih"
+  },
+  {
+    "input": "Cara sinkronisasi akun OSS dan Amdalnet di SIMPEL. sudah coba login pake akun OSS (EMail & Password) tapi masih belum bisa, kenapa?",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "mohon infonya, username dan password akun SIMPEL kami apakah sudah ada?",
+    "output": "Selamat siang Bapak/Ibu. Terkait permasalahan yang dialami, sialakan cek email kembali untuk dapat melihat username dan password"
+  },
+  {
+    "input": "saya sudah mendaftarkan akun tapi masih dalam antrian, apakah bisa di bantu?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Saya mau registrasi SIMPEL tapi tidak bisa verifikasi email, kenapa ya?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Setelah Login, \"Username/password\" salah, padahal sudah benar yg saya masukkan. Mohon petunjuknya. Terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Bapak/Ibu bisa mengklik lupa password, dan mengikuti langkah selanjutnya, Terimakasih"
+  },
+  {
+    "input": "EMAIL Konfirmasi proses registrasi tidak masuk di email terdaftar dengan nomor registrasi 67931",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, kami sudah membuat akun berdasarkan nomor registrasi tersebut, silahkan dicek kembali pada email yang terdaftar, Terimakasih"
+  },
+  {
+    "input": "Kami sudah melakukan pendaftaran, akan tetapi kami belum menerima email konfirmasi registrasi/nomor registrasi",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Saya mengalami kendala dalam pembuatan akun simpel. di website dijelaskan bahwa batas waktu maksimal untuk pembuatan akun adalah 14 hari, namun sampai saat ini sudah 21 hari dari pembuatan akun dan belum ada jawaban email dari pembuatan akun tersebut. Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu diinformasikan Nomor Registrasi dan Nama Perusahannya, Terimakasih"
+  },
+  {
+    "input": "Saya mengalami kendala dalam pembuatan akun simpel. di website dijelaskan bahwa batas waktu maksimal untuk pembuatan akun adalah 14 hari, namun sampai saat ini sudah 21 hari dari pembuatan akun dan belum ada jawaban email dari pembuatan akun tersebut. Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu diinformasikan Nomor Registrasi dan Nama Perusahannya, Terimakasih"
+  },
+  {
+    "input": "Kami perusahaan yg baru akan membuat akun simpel mohon bimbingannya 1. Apakah Pelaku Usaha Wajib Mengisi Simple 2. Jika diperusahaan hanya melakukan pengecekan udara biasa dan tidak mempunyai cerobong asap bagaimana cara pengisiannya 3. jika baru mempunyai akun apakah yg diisi bisa laporan RKL/RPL semester terbaru atau harus mengisi RKL/RPL semester sebelumnya",
+    "output": "Selamat siang Bapak/Ibu. terkait menjawab pertanyaan diatas. 1. Setiap pelaku usaha yang mempunyai dokumen/izin lingkungan wajib melaporkan melalui simple. 2. Untuk panduan pengisian PPU ada di menu panduan di aplikasi PPU. 3. Laporkan RKL/RPL periode berjalan terlebih dahulu setelah itu isi laporan back date."
+  },
+  {
+    "input": "akun OSS yang dimaksud menggunakan akun yang bagaimana ?mohon penjelasan",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "kami dari PT. PUNDI KENCANA CILEGON Mohon bantuanya kami tidak bisa melakukan login / intregasi ke AMDALNET mohon arahan & saran nya terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "akun simpel tidak bisa login ketika sudah terintegrasi dengan amdalnet, akun amdalnet beda email dgn akun simpel, ketika ubah email di akun amdalnet dokumen hilang dan akun simpel tidak bisa di klik mohon bantuannya",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "Selamat siang, izin bertanya apakah dalam pembuatan akun SIMPEL hanya bisa 1 email 1 akun atau 1 email bisa beberapa akun SIMPEL? mohon informasinya, terima kasih",
+    "output": "Selamat Siang, Bapak/Ibu, untuk pembuatan akun SIMPEL hanya bisa 1 email 1 akun, tidak bisa 1 email bisa beberapa akun SIMPEL, Terimakasih"
+  },
+  {
+    "input": "Sealamat siang , mohon informasikan progres registrasi dengan Nomor Registrasi : 70906 Nama : Supandi Perusahaan/Instansi : PT. PAPARTI PERTAMA sudah sampai mana ya , dan kapan saya bisa mendapatkan Username & Password untuk akses ke SIMPEL Terimakasih",
+    "output": "Selamat sore Bapak/Ibu. Terkait permasalahan tersebut kami sudah mengirimkan email yang terdaftar untuk dapat melihat username dan password."
+  },
+  {
+    "input": "bagaimana cara log in amdal net?",
+    "output": "Selamat Pagi Bapak/Ibu, Apabila Bapak/Ibu sudah memiliki akun OSS, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "Dari PT Oneject Indonesia tidak bisa log in Amdalnet menggunakan akun OSS",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET dengan cara \"masuk dengan akun OSS RBA\", setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "bagaimana jika belum mempunyai akun amdalnet",
+    "output": "Selamat Siang Bapak/Ibu, silahkan login akun AMDALNET dengan menggunakan akun OSS RBA, terimakasih"
+  },
+  {
+    "input": "mengapa saya tidak bisa melakukan pendaftaran akun di aplikasi simpel",
+    "output": "Selamat siang Bapak/Ibu, silahkan mengikuti link tutorial yang ada dibawah halaman SIMPEL yang sudah disediakan, Terimakasih"
+  },
+  {
+    "input": "Bagaimana cara mengaktifkan/Login Amdalnet? sudah kami coba dengan akun OSS dan SIMPEL namun tidak bisa",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET dengan cara \"masuk dengan akun OSS RBA\", setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "Selamat siang klinik saya sudah daftar akun simple dari 22 mei namun masih belum dapat email perihal akun dan passwordnya mohon bantuannya pa/bu terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Kepada Yth Bapak /Ibu Bagian SIMPEL Dengan Hormat, Kami dari PT.HUTAHAEAN Teluk Sono Memohon ,agar mengganti/ Email Yang terdaftar di Registrasi SIMPEL, Di karenakan Email Yang sudah terdaftar tidak Aktif Lagi. Adapun Email Yang terdaftar di Simpel : endri_ev@yahoo.com. Email Yang baru Yang mau di daftarkan adalah sebagai berikut: pksteluksonohutahaean@gmail.com Adapun Profil Perusahaan Sebagai Berikut: Nomor Induk Berusaha (NIB): 9120306320644 NPWP : 01.102.036.9-218.000 Mohon Bantuannya Bapak/ Ibu Agar kami dapat Mengisi Data ke Sistim OSS. Demikianlah permohonan kami,sebelum dan sesudahnya kami ucapkan Terima kasih",
+    "output": "Selamat sore Bapak/Ibu. Yang terdaftar emailnya adalah iriantosinaga@ymail.com silakan reset password pada fitur reset password di SIMPLE"
+  },
+  {
+    "input": "Selamat pagi Bapak/Ibu, saya Olivia perwakilan dari PT Renikola Primer Energi. Ingin menanyakan status pengajuan akun SIMPEL",
+    "output": "Selamat pagi Bapak/Ibu. Silakan cek email perusahaan yang terdaftar untuk dapat melihat username dan password"
+  },
+  {
+    "input": "Selamat pagi, Saya saat ini sedang proses registrasi akun simple dan sudah dapat respon email untuk perbaikan formulir registrasi. Formulir registrasi sudah saya perbaiki dari tanggal 02-07-2025 lewat link yang ada di email. Mohon arahannya karena sampai saat ini kami belum dapat email balasan dan saya cek lewat lacak keterangannya \"Registrasi DItunda\". Terima kasih",
+    "output": "Selamat pagi Bapak/Ibu. Silakan cek email perusahaan yang terdaftar untuk dapat melihat username dan password"
+  },
+  {
+    "input": "Saya sudah melakukan registrasi akun SIMPEL untuk perusahaan sbb: Nama: PT Dinasira Sembada email: faldiesamanda@gmail.com no registrasi: 69028 pada tanggal 24 Mei 2025 namun belum mendapatkan username & password sampai saat ini. Mohon tindak lanjutnya. Terima kasih.",
+    "output": "Selamat pagi Bapak/Ibu. Silakan cek email perusahaan yang terdaftar untuk dapat melihat username dan password"
+  },
+  {
+    "input": "Selamat Siang Menindaklanjuti registrasi yang dilakukan oleh PT. Satria Mulia Perkasa pada tanggal 25 Juni 2025 dengan nomor registrasi 71257. Mengingat sekarang sudah hari ke 8 semenjak registrasi tetapi tidak kunjung mendapatkan email balasan untuk username dan password nya, apakah sudah. Namun hingga saat ini saya belum menerima konfirmasi atau informasi selanjutnya terkait status registrasi akun saya. Saya ingin memastikan apakah proses registrasi saya sudah diterima dan mengetahui langkah apa yang perlu saya lakukan selanjutnya untuk menyelesaikan aktivasi akun. Mohon bantuannya untuk informasi lebih lanjut. Terima kasih atas perhatian dan kerjasamanya.",
+    "output": "Selamat pagi Bapak/Ibu. Silakan cek email perusahaan yang terdaftar untuk dapat melihat username dan password"
+  },
+  {
+    "input": "Dh, Mohon info terkait informasi sinkronisasi akses login simpel dan Amdalnet/OSS. Bila kita nanti telah melakukan sinkronisasi, apakah natinya setiap login akan menggunakan user dan password nya OSS atau tetap menggunakan user dan passwor dari Simpel yang sudah ada?",
+    "output": "Selamat pagi Bapak/Ibu. Untuk saat ini, setelah berhasil integrasi amdalnet simpel, perusahaan dapat login simpel menggunakan akun amdalnet atau sebaliknya. ke depannya login simpel hanya melalui portal amdalnet, akan diinformasikan kemudian"
+  },
+  {
+    "input": "Mohon pedoman untuk sinkronisasi, bagi akun OSS dan amdalnet yg dimiliki oleh holding perusahaan.",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "akun simpel KLHK tdk bisa login",
+    "output": "Selamat pagi Bapak/Ibu. Silakan menggunakan fitur \"Lupa Password\" atau \"Reset Password\" di tampilan halaman login SIMPLE"
+  },
+  {
+    "input": "Belum mendapatkan akun SIMPEL pendaftaran sejak 21 Mei 2025",
+    "output": "Selamat pagi Bapak/Ibu. Silakan cek email perusahaan yang terdaftar untuk dapat melihat username dan password"
+  },
+  {
+    "input": "Selamat Siang bapak, kami dari RAFA PET'S CARE ijin menanyakan pak, ini ada kendala di pelanggan kami, ada kesalahan nama di akun simpelnya, apakah bisa di sesuaikan dengan nama yang betul pak ? karena nama yg betul adalah RAFA PET'S CARE",
+    "output": "Selamat pagi Bapak/Ibu. Mohon maaf karena ada kesalahan sistem. Silakan di cek untuk nama perusahaan sudah sesuai dengan permintaan."
+  },
+  {
+    "input": "Saya mau lapor simpel, dan diarahkan ke masuk melalui akun amdalnet. Saya sudah masukkan alamat email yang terdaftar di oss dan password di oss, tapi muncul notifikasi \"invalid credintials\". Mohon petunjuk bagaimana kami bisa masuk ke amdalnet. Terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET. Jika ada kendala kami memberikan opsi selanjutnya yaitu silahkan login AMDALNET dengan cara \"masuk dengan akun OSS RBA\", setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "Ijin bertanya jika kami mengalami kendala pensinkronisasian akun simpel dan akun oss, bagaimana solusinya.",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "akun idak bisa loginuntuk kabupaten wajo tidak bisa terbuka, user sm pasword yang dikirim",
+    "output": "Selamat pagi Bapak/Ibu. Silakan kirimkan ID SIMPLE dan nama perusahaannya"
+  },
+  {
+    "input": "konsultasi akun simple",
+    "output": "Selamat pagi Bapak/Ibu. Silakan ajukan pertanyaan terkait SIMPLE"
+  },
+  {
+    "input": "Dh, Mohon info, setelah dilakukan sinkronisasi ke OSS, apakah untuk login selanjutnya tetap menggunakan user dan password Simple atau user dan password OSS karena untuk crporate/holding perusahaan kami akses OSS di manage oleh Legal corporate",
+    "output": "Selamat pagi Bapak/Ibu. Untuk saat ini, setelah berhasil integrasi AMDALNET simpel, perusahaan dapat login simpel menggunakan akun AMDALNET atau sebaliknya. Kedepannya login simpel hanya melalui portal AMDALNET, akan diinformasikan kemudian"
+  },
+  {
+    "input": "Mohon bantuan, masuk ke akun simpel Username dan password salah padahal sesuai dengan kiriman via email , sudah mencoba lupa password tetapi tdk berhasil",
+    "output": "Selamat pagi Bapak/Ibu silakan cek email untuk melihat username dan password"
+  },
+  {
+    "input": "Setelah kami lihat pada menu lacak registrasi akun di SIMPEL, nomor registrasi 68368 atas nama PT UCC Coffee Indonesia, kemungkinan terdapat kesalahan input alamat email yang didaftarkan, hingga saat ini kami belum menerima email username dan password. Alamat email yang didaftarkan: qc@ucc.co.id sedangkan Alamat email yang diinput: q*ucc.co.id kurang satu huruf kami sudah melakukan pengecekan email ulang, dan tidak ada email masuk pada tanggal 14 Mei 2025",
+    "output": "Selamat pagi Bapak/Ibu silakan cek email untuk melihat username dan password"
+  },
+  {
+    "input": "Sinkronisasi akun simpel dan OSS invalid, mohon saran nya",
+    "output": "Selamat siang Bapak/Ibu, silahkan login AMDALNET dengan cara \"masuk dengan akun OSS RBA\", setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "Yth, Bapak/Ibu Pengelola SIMPEL Di tempat Yth, Bapak/Ibu Pengelola SIMPEL Di tempat Mohon informasikan progres registrasi dengan Nomor Registrasi : 70906 Nama : Supandi Perusahaan/Instansi : PT. PAPARTI PERTAMA sudah sampai mana ya , dan kapan saya bisa mendapatkan Username & Password untuk akses ke SIMPEL Terimakasih",
+    "output": "Selamat siang Bapak/Ibu. Kami sudah mengirimkan email yang terdaftar untuk dapat melihat username dan password. Email sudah terkirim pada tanggal 08-Jul-2025 15:13:13."
+  },
+  {
+    "input": "Sinkronisasi SIMPEL dengan OSS/Amdalnet ada kendala, email OSS sudah dipakai cabang perusahaan yang lain, bagaimana dengan cabang yang lain caranya",
+    "output": "Sinkronisasi SIMPEL dengan OSS/Amdalnet ada kendala, email OSS sudah dipakai cabang perusahaan yang lain, bagaimana dengan cabang yang lain caranya"
+  },
+  {
+    "input": "Selamat siang pak, saya Hafiz Syahputra, saya bekerja di pabrik farmasi. Sebelumnya saya bertanya mengenai sinkronisasi akun amdalnet dan simpel. Mengenai akun amdalnet, apakah harus seluruh perusahaan baik yang sudah lama maupun baru mempunyai akun amdalnet? atau sinkronisasinya cukup hanya menggunakan akun OSS yang sudah ada? Terimakasih banyak",
+    "output": "Selamat siang Bapak/Ibu. Setiap perusahaan baik baru atau lama harus mempunyai akun amdalnet. Setelah mendapatkan akun amdalnet lalu di singkronisasikan dengan akun simple"
+  },
+  {
+    "input": "Kami sudah registrasi akun simpel pada tanggal 9 Juni 2025. Sudah lebih dari 14 hari belum mendapatkan akun simpel (Username & Password). Mohon untuk ditindaklanjuti karena untuk registrasi izin angkut limbah",
+    "output": "Selamat siang Bapak/Ibu. Silakan untuk mengecek email yang terdaftar kembali untuk dapat melihat username dan password"
+  },
+  {
+    "input": "TDKBISA LOGIN. USER NAME/PASSWORD SALAH",
+    "output": "Selamat pagi Bapak/Ibu. Silakan menggunakan fitur \"Lupa Password\" atau \"Reset Password\" di tampilan halaman login SIMPLE"
+  },
+  {
+    "input": "Selamat sore, mohon dibantu untuk USERNAME dan PASSWORD akun SIMPEL PT YEON TECHNOLOGY dengan nomer registrasi 70322 terimakasih",
+    "output": "Selamat siang Bapak/Ibu. Silakan untuk mengecek email yang terdaftar untuk dapat melihat username dan password"
+  },
+  {
+    "input": "Selamat siang, saya memiliki kendala untuk sinkronisasi akun simpel dengan akun OSS. Ketika saya coba login menggunakan akun amdalnet muncul jendela informasi \"Invalid Credentials\". Namun jika saya login di web OSS dengan email dan password yang sama bisa. Terimakasih.",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET. Jika ada kendala kami memberikan opsi selanjutnya yaitu silahkan login AMDALNET dengan cara \"masuk dengan akun OSS RBA\", setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "Selamat siang, izin bertanya terkait SIMPEL untuk batas waktu untuk melakukan pelaporan semester I tahun 2025 apakah terdapat informasinya?",
+    "output": "Selamat siang Bapak/Ibu. Kami infokan bahwa terakhir pelaporan pada tanggal 31 Juli 2025"
+  },
+  {
+    "input": "tutorial pengisian data B3 limbah",
+    "output": "Selamat sore Bapak/Ibu. Terkait permasalan tersebut silakan klik link Materi Sosialisasi PROPER 2025  https://ppkl.link/materiproper2025share"
+  },
+  {
+    "input": "Tidak bisa update profil perusahaan, Kendala di titik lokasi tidak bisa tersimpan",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Bapak/Ibu terlebih dahulu pastikan browser yang digunakan sudah mengizinkan mengakses lokasi, atau lokasi perusahaan Bapak/ibu bisa ditentukan dengan mengakses peta di SIMPEL, dan meletakkan titiknya yang sesuai."
+  },
+  {
+    "input": "Permintaan username Dan password untuk Pengajuan Akun dengan nomer registrasi 70514",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, kami sudah melakukan pembuatan akun dengan nomor regsitrasi 70514 atas nama perusahaan PT SENTRA MITRA ADIDAYA, silahkan dicek pada email yang terdaftar, terimakasih"
+  },
+  {
+    "input": "Siang Bapak/Ibu, Izin menanyakan mengenai Username & Password untuk akses ke SIMPEL belum kami terima dari tanggal pengajuan 14 Juni 2025 Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Kami ingin melakukan sinkronisasi akun SIMPEL dengan OSS dan AMDALNET, tapi login AMDALNET dan OSS tidak memakai email melaikan username Adhi 284 yang tidak ada domain emailnya, jadi tidak bisa login di akun SIMPAL karna wajib memakai domain email",
+    "output": "Selamat pagi Bapak/Ibu. Kami informasikan bahwa Bapak/Ibu login SIMPLE menggunakan akun AMDALNET/OSS dengan memakai email dan password yang tercantum di AMDALNET"
+  },
+  {
+    "input": "Yth. Tim Pengelola SIMPEL – KLHK di Tempat Dengan hormat, Kami dari PT Diamesco Indonesia, sebuah perusahaan yang bergerak di bidang perdagangan besar alat laboratorium dengan kode KBLI 46691, sedang melakukan kajian kebutuhan pengelolaan limbah medis B3 di wilayah Kalimantan. Sehubungan dengan hal tersebut, kami ingin menanyakan: Apakah perusahaan dengan KBLI 46691 dapat mengakses data limbah medis B3 seluruh provinsi melalui platform SIMPEL, khususnya yang mencakup jumlah rumah sakit, puskesmas, serta total timbulan limbah medis per hari di bawah naungan Pemerintah Provinsi? Informasi ini sangat penting bagi kami dalam melakukan studi kelayakan dan perhitungan kapasitas mesin incinerator yang akan kami ajukan melalui skema Kerja Sama Operasional (KSO) di wilayah Kalimantan. Kami mohon informasi lebih lanjut mengenai: 1. Syarat atau kriteria perusahaan yang diperbolehkan mengakses data spasial/kuantitatif tersebut. 2. Apakah data tersebut bersifat terbuka atau memerlukan izin khusus dari instansi terkait. Terima kasih atas waktu dan kerja samanya, kami menantikan balasan ini dengan segera.",
+    "output": "Selamat pagi Bapak/Ibu. Untuk bisa mengakses data-data perusaahan di simpel hanya dapat diberikan seperti instansi Dinas Lingkungan Hidup adapun perusahaan belum dapat kami akomodir data data tersebut. Jika ada request data bisa bersurat dengan instansi terkait untuk permohonan data yang diminta."
+  },
+  {
+    "input": "selamat pagi saya akan mensingkronisasi akun simpel ke akun amdalnet pada saat saya memasukan email dan pasword akun oss muncul invalid credentials , seharusnya email yg simpel atau oss ini , mohon petunjuknya , terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "cara melakukan singkornisasi SIMPLE dan OSS, unutk user ID dan Paswword untuk logi pakai ID Simple atau ID OSS terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "mau daftar aku simpel, verifikasi gagal email telah digunakan. saya coba lupa password saat login muncul tulisan email tidak terdaftar",
+    "output": "Selamat siang Bapak/Ibu. Silakan mendaftarkan email yang berbeda saat proses registrasi."
+  },
+  {
+    "input": "Kami melakukan sinkronisasi akun simpel dengan oss/amdalnet, tetapi akun masih belum terintegrasi. Mohon bisa dibantu untuk cek. Terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "saya mau sinkronisasi Amdalnet/OSS dengan SIMPEL tetapi amdalnet kami tidak menggunakan alamat email bagaimana cara sinkornisasinya ?",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "tidak bisa login menggunakan akun amdalnet dengan keterangan informasi invalid credentials mohon arahan",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "Sudah punya akun simpel dan oss.go.id, akan tetapi tetap tidak bisa sinkron,",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "mohon bantuan untuk dipandu tentang tatacara penggunaan simpel",
+    "output": "Selamat pagi Bapak/Ibu. Setelah masukan username dan password akun SIMPLE, menampilkan halaman beranda SIMPLE. Terdapat icon DOWNLOAD pada fitur SIMPLE diposisi sudut bawah sebelah kiri. Pada tampilan tersebut lengkap tatacara penggunaan SIMPLE."
+  },
+  {
+    "input": "saya kordinator HSE 13 pabrik pt hoktong group bagai mana cara saya bisa akses data 13 pabrik ini tks",
+    "output": "Selamat pagi Bapak/Ibu, Berikut Link Registrasi Akun SIMPEL Holding Company https://ppkl.link/regsimpelholding"
+  },
+  {
+    "input": "Saya tidak bisa melengkapi PROFIL, selalu diminta titik koordinat, padahal sudah dimasukkan sesuai panduan. mohon bagaimana solusinya.",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Bapak/Ibu terlebih dahulu pastikan browser yang digunakan sudah mengizinkan mengakses lokasi, atau lokasi perusahaan Bapak/ibu bisa ditentukan dengan mengakses peta di SIMPEL, dan meletakkan titiknya yang sesuai."
+  },
+  {
+    "input": "login akun simpel dengan akun dan password OSS RBA tidak bisa",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "Sudah melakukan registrasi simpel tetapi muncul notifikasi bahwa email sudah terdaftar. Sedangkan saat dilakukan prosedur lupa password muncul notifikasi email tidak terdaftar.",
+    "output": "Selamat siang Bapak/Ibu. Silakan mendaftarkan email yang berbeda saat proses registrasi."
+  },
+  {
+    "input": "Registrasi Dalam Antrian untuk tujuan pelaporan berkala enam bulanan (semesteran) terkait Persetujuan Lingkungan (AMDAL/UKL-UPL). Berdasarkan keterangan yang ada di sistem, kami diarahkan untuk menghubungi Bapak/Ibu lewat surel ini. Kami mohon bantuannya untuk dapat menginformasikan status terkini dan kami bersedia untuk melengkapi kekurangan dokumen secepatnya.",
+    "output": "Selamat siang Bapak/Ibu. Silakan kirimkan nomor registrasi dan nama perusahaan."
+  },
+  {
+    "input": "saya daftar simpel untuk pemda. tetapi untuk formulir regristrasi kepala dinas lagi tidak ada ditempat. apakah bisa dilanjut besok lagi sedangkan saya sudah sampai verifikasi email?",
+    "output": "Selamat siang Bapak/Ibu. Bisa dilakukan esok hari atau hari berikutnya."
+  },
+  {
+    "input": "Selamat pagi, izin bertanya mengenai jenis industri saat pengisian membuat akun simpel, perusahaan kami bergerak di bidang jasa pengujian, tapi di pilihan jeni isdustri tidak menemukan nya. Terimakasih",
+    "output": "Selamat siang Bapak/Ibu. Silakan search nomor KBLI 71202 - Jasa Pengujian Laboratorium"
+  },
+  {
+    "input": "terkait pendaftaran simpel",
+    "output": "Selamat siang Bapak/Ibu. Terkait pendaftaran SIMPLE ada di landing page pada sistem website kami."
+  },
+  {
+    "input": "terkait pengisian profil perusahaan, kami sudah berapa kali masukkan tapi tidak bisa disimpan. tolong dibantu dan adah kontak whatsapp yang bisa dihubungi",
+    "output": "Selamat siang Bapak/Ibu. Terkait yang terjadi silakan pengisisan profil perusahaan tidak ada yang terlewat dan melengkapi lokasi kegiatan. Bapak/Ibu untuk pengisian lokasi kegiatan terlebih dahulu pastikan browser yang digunakan sudah mengizinkan mengakses lokasi, atau lokasi perusahaan Bapak/ibu bisa ditentukan dengan mengakses peta di SIMPEL, dan meletakkan titiknya yang sesuai."
+  },
+  {
+    "input": "selamat pagi , saya dari pt tribhakti hak mohon petunjukya mengenai akun simpel kami ketika kami masukan username dan pasword di keterangan username salah",
+    "output": "Silakan mengirimkan ID SIMPLE dan nama perusahaan."
+  },
+  {
+    "input": "mohon panduan , kami berulang kali mengisi seluruh isian profil perusahaan sesuai panduan dengan cara menyematkan alamat html dari google maps, tetapi selalu gagal, setelah klik save muncul notifikasi \"Tempatkan titik didalam batas wilayah\". Mohon solusinya",
+    "output": "Selamat siang Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Bapak/Ibu terlebih dahulu pastikan browser yang digunakan sudah mengizinkan mengakses lokasi, atau lokasi perusahaan Bapak/ibu bisa ditentukan dengan mengakses peta di SIMPEL, dan meletakkan titiknya yang sesuai."
+  },
+  {
+    "input": "Integrasi akun SIMPEL dengan OSS/AMDALNET",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "tdk bisa login lagi tertulis password salah.. pdhal tdk mengganti password",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang daialaminya,Silahkan dicoba klik lupa password ya Bapak/Ibu, Terimakasih"
+  },
+  {
+    "input": "Siang Bapak/Ibu, Izin menanyakan mengenai Username & Password untuk akses ke SIMPEL belum kami terima dari tanggal pengajuan 14 Juni 2025 Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Mohon dipandu untuk bisa menggunakan aplikasi simple. dimana kami sudah daftar online tetapi blm mendapakan verifikasi via email. trimakasih",
+    "output": "Selamat Pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong diinformasikan untuk Nomor Registrasi atau nama Perusahannya ?, terimakasih"
+  },
+  {
+    "input": "Mohon cek, Bapak/Ibu ; Akun sinkronisasi Amdalnet PT. Rezeki Kencana tidak muncul di optionlal Email di dalam SIMPEL ? Terima Kasih.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Saya lupa user dan pass akun simpel ? bagaimana cara mendapatkan user dan pass lagi ? apakah harus mendaftar kembali ?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang daialaminya, boleh tolong dibantu Nomor registrasi atau nama Perusahannya ?, terimakasih"
+  },
+  {
+    "input": "tdidak terbuka",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong diinformasikan alasan tidak terbukanya dimana dan bagian apa ? Terimakasih"
+  },
+  {
+    "input": "Saya mau masuk ke speed 2024.. tapi kenapa diminta isi data profil lagi ya? kalo ga isi data profil ga bisa lanjut ke menu lain.. sebelumnya saya sudah isi data.. udah di isi pun salah terus infonya tidak tidak dalam batas wilayah. padahal saya sudah copas dari gmaps dan ambil embed link untuk longititude dan latitude. mohon solusinya",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Bapak/Ibu terlebih dahulu pastikan browser yang digunakan sudah mengizinkan mengakses lokasi, atau lokasi perusahaan Bapak/ibu bisa ditentukan dengan mengakses peta yang terdapat di dalam web SIMPEL, dan meletakkan titiknya yang sesuai. Terimaksih"
+  },
+  {
+    "input": "KA IZIN TANYA JIKA RUMAH SAKIT KAMI BERUBAH NAMA APAKAH YANG HARUS KAMI LAKUKAN UNTUK PERUBAHAN DI SIMPELNYA DAN BISA TIDAK ALAMAT EMAILNYA KAMI RUBAH. TERIMAKASIH",
+    "output": "Selamat Pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan nama sebelumnya ?, agar kami ubah melalui sistem kami, dan untuk alamat emailnya nanti bisa Bapak/Ibu ubah sendiri, terimakasih."
+  },
+  {
+    "input": "Saya mau registrasi SIMPEL tapi tidak bisa verifikasi email, kenapa ya?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya boleh tahu error saat verifikasi emailnya apa ?, terimakasih"
+  },
+  {
+    "input": "Mencoba utk sync akun SIMPEL menggunakan Login Akun Amdalnet, namun gagal. Muncul notif Invalid Credential. Mohon dibantu",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "Selamat pagi, Saya ingin konsultasi mengenai data instansi dalam proses pembuangan limbah. Apakah ada CP yang dapat saya hubungi langsung? Terima kasih.",
+    "output": "Selamat Pagi Bapak/Ibu untuk informasi mengenai pembuangan limbah, silahkan lanjut menghubungi Sunar PLB3 +62 812-9820-4221, Terimakasih"
+  },
+  {
+    "input": "minta kode",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan memberikan pertanyaan yang lebih lengkap agar tim kami dapat memahaminya, teimakasih"
+  },
+  {
+    "input": "Mohon bantuannya untuk penjalasan terkait pengajuan perizinan PPMA dengan validasi yang ditolak?",
+    "output": "Selama Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, terkait validasi izin PPA, silakan ditanyakan kepada Admin PPA +62 812-9998-8270. terima kasih"
+  },
+  {
+    "input": "kode",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan memberikan pertanyaan yang lebih lengkap agar tim kami dapat memahaminya, teimakasih"
+  },
+  {
+    "input": "Kok Gak Bisa Login Ke Simpel Padahal udah dapat Kode Verifikasi",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, apakah sudah dimasukkan username dan passwordnya dengan benar, jika ada notifikasi password salah, silahkan klik lupa password ya Bapak/ibu, jika masih ada kendala, bisa chat kami kembali, terimakasih"
+  },
+  {
+    "input": "Pengurusan SIMPEL",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama perusahannya ?, terimakasih"
+  },
+  {
+    "input": "jika perusahaan memiliki 1 NIB tetapi perusahaan tsb memiliki 20 site, apakah setiap site harus memiliki akun simpel sendiri atau bisa mengacu pada akun simpel induk perusahaan?",
+    "output": "Selamat Pagi Bapak/Ibu, apabila setiap perushaan memiliki izin lingkungan masing-masing, maka harus memiliki akun SIMPEL masing-masing, terimakasih"
+  },
+  {
+    "input": "saya sudah registrasi tetapi setelah menunggu 14 hari tidak ada username & pasword yg masuk ke email, saya coba registrasi ulang tetapi gagal karena email yang saya cantumkan telah terdaftar. Mohon saya dapat dibantu harus bagaimana?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "saya sudah registrasi tetapi setelah menunggu 14 hari tidak ada username & pasword yg masuk ke email, saya coba registrasi ulang tetapi gagal karena email yang saya cantumkan telah terdaftar. Mohon saya dapat dibantu harus bagaimana?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Minta tolong aktifkan modul SPEED, akun ieg_manufacturing -indonesia",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan melengkapi profil SIMPEL terlebih dahulu, agar dapat berpindah ke menu lain, terimakasih"
+  },
+  {
+    "input": "kami PT Kurnia Sakti Wibawa sudah melakukan pendaftaran akun simpel tgl 12-06-2025 dengan no registrasi 70181, sudah 14 hari kerja, mohon info pengajuan registrasi kami",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Selamat siang tim SIMPEL , Nomor Registrasi : 68536 Nama : Rafiqah Nur Sahada Perusahaan/Instansi : RSIA Az Zahra Saya belum dapat user dan pw dari 15 hari setelah pendaftaran akun, mohon solusinya Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Terdapat notifikasi invalid credential ketika login menggunakan akun amdalnet/OSS",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS RBA, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "Permintaan username Dan password untuk Pengajuan Akun dengan nomer registrasi 70514",
+    "output": "Selamat pagi Bapak/Ibu, Silahkan cek email untuk username dan password nya, terima kasih"
+  },
+  {
+    "input": "Pengajuan akun simpel sudah lebih dari 14 hari kerja, belum ada email feedback masuk, lalu disuruh email ke alamat suwwanda@gmail.com, sudah saya email tapi kok emailnya ndak valid? bagaimana ya?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama Perushaannya ?, terimakasih"
+  },
+  {
+    "input": "registrasi sudah berhasil, namun informasi username & password belum masuk ke email sehingga belum bisa login. mohon bantuan agar usernam & password segera masuk ke email agar bisa segera login. terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "kami sudah melakukan registrasi simpel tgl.24 Juni 2025 namun hingga kini kami belum menerima email konfirmasinya. Mohon dibantu. terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Kami dari PT. Syaqua Indonesia kami tidak dapat mendaftar akun simpel seslalu invalid email address..email yang kami daftarkan adalah email perusahaan..mohon bantuannya",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan menggunakan email lain ya, terimakasih"
+  },
+  {
+    "input": "ka izin tanya jika rumah sakit kami berubah nama apakah yang harus kami lakukan untuk perubahan nama di profil dan akun simpelnya dan bisa tidak alamat emailnya kami rubah juga.terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan nama sebelumnya ?, agar kami ubah melalui sistem kami, dan untuk alamat emailnya nanti bisa Bapak/Ibu ubah sendiri, terimakasih."
+  },
+  {
+    "input": "Selamat sore bapak/ibu, kami selaku konsultan dari PT Patra Jasa telah melakukan pendaftaran akun ID SIMPEL dengan nomor registrasi 70420. Namun hingga saat ini belum mendapatkan email kembali terkait akun ID SIMPEL nya, mohon arahannya agar kami dapat segera mendapatkan ID SIMPEL sebagai kebutuhan perizinan lingkungan kami. Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "akun sy spstuban tdk bs login, pdhal passwordnya tetap dan tdk pernah sy ganti. klik lupa password, email tdk terdaftar. pdhal sy daftar pakai email tsb",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "noted",
+    "output": "Selamat pagi Bapak/Ibu, ada yang bisa dibantu ?, terimakasih"
+  },
+  {
+    "input": "selamat siang, ijin untuk menyampaikan pesan, ijin kami sudah melengkapi perbaikan formulir registrasi SIMPEL wajib bermaterai asli Rp10.000,- / e-materai yang sudah ditandatangani oleh pimpinan dan distempel basah/dicap perusahaan. di tanggal 13 mei, kami buat, apakah ada yang salah atau bagaimana, terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Nomor Registrasi : 70556 Nama : Muljono Bambang Perusahaan/Instansi : PT Sincerity Energy Indonesia Username & Password untuk akses ke SIMPEL belum dikirimkan setelah 14 hari kerja",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Mohon dibantu cek utk pengajuan pembuatan akun baru atas nama PT Bintangempat Bersaudara, saya cek melalui nomor registrasi 69284 info nya username dan password sudah di kirim ke email ericaeonflux@gmail.com, namun saya cek di inbox dan spam tidak ada email masuk. Mohon dibantu di resend/kirim ulang username dan passwordnya. Terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "TIDAK BISA LOGIN NAMA PERUSAHAAN :PUSKESMAS PILADANG USERNAME: pkmpiladang PASSWORD:479FKL",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, silahkan klik lupa password, terimakasih"
+  },
+  {
+    "input": "Apakah akun saya sdh ter Registrasi,bagaimana saya bisa Login",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Akun saya belum jadi, sudah lebih dari 14 hari kerja. nomer registrasi 70615 dengan PT Sama Berkat Transindo",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Perihal registrasi akun SIMPEL dengan nomor registrasi 70105 Saya sudah mengirim revisi formulir permohonan registrasi SIMPEL pada tanggal 13 Juni 2026 untuk mendapatkan username dan password SIMPEL. Tapi hingga saat ini, saya belum mendapatkan username dan password untuk akun SIMPEL. Mohon dibantu untuk proses registrasinya.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Pada saat saya ingin resgistrasi akun, selalu ada peringatan untuk memastikan bahwa dokumen sudah ditandatangani dan dibubuhi stempel basah serta di scan berwarna selain hitam-putih, dan selalu saya jawab lanjutkan karena memang sudah sesuai dengan ketentuan yang dibutuhkan tersebut. tetapi tiba-tiba kembali ke halaman awal login dan tertulis bahwa registrasi simpel gagal dan email pribadi saya telah terdaftar. lalu apakah ini berarti registrasi saya yang sebelumnya itu sudah berhasil? bagaimana cara saya mengetahui apakah itu sudah berhasil atau belum?",
+    "output": "Selamat Siang Bapak/Ibu, baik semoga sehat selalu"
+  },
+  {
+    "input": "Mohon informasi bagaiman acaranya untuk berkonsultasi perihal akunt SIMPEL ? Mohon kami diberikan nomer Telpon atau nomer WA yang dapat kami hubungi.",
+    "output": "Selamat Siang Bapak/Ibu, silahkkan tanyakan disini akan kami bantu, terimakasih"
+  },
+  {
+    "input": "sudah 14 hari belum dapat user simple dan sudah email ke svwanda25@gmail.com tetapi belum respon. mohon bantuanya pak/bu",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "PT KEWPIE INDONESIA",
+    "output": "Selamat siang Bapak/Ibu, apakah ada kendala yang bisa kami bantu?"
+  },
+  {
+    "input": "Jika ada pertanyaan terkait pengisian B3 di simpel, adakah kontak yang bisa dihubungi?",
+    "output": "Selamat Pagi Bapak/Ibu untuk informasi mengenai pembuangan limbah, silahkan lanjut menghubungi Sunar PLB3 +62 812-9820-4221, Terimakasih"
+  },
+  {
+    "input": "cara registrasi ke akun amdalnet untuk email",
+    "output": "Selamat malam Bapak/Ibu, silahkan membuat akun AMDALNET di portal AMDALNET. Terimakasih"
+  },
+  {
+    "input": "tidak dapat update data, selalu minta tentukan titik kordinat. padahal sudah ditentukan",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Bapak/Ibu terlebih dahulu pastikan browser yang digunakan sudah mengizinkan mengakses lokasi, atau lokasi perusahaan Bapak/ibu bisa ditentukan dengan mengakses peta di SIMPEL, dan meletakkan titiknya yang sesuai."
+  },
+  {
+    "input": "username dan password belum di email balik ke kami, terima kasih",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh dibantu informasikan Nomor Registrasi atau nama Perusahannya ?, terimakasih"
+  },
+  {
+    "input": "Dear team Simpel, Mohon informasi progress pendaftaran akun simpel kami pada tanggal : 10 Juni 2025 dengan detail sbb : Nomor Registrasi : 69983 Nama : Endang Retnowati Perusahaan/Instansi : PT Behn Meyer Chemicals Terima kasih",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Selamat sore bapak/ibu, kami selaku konsultan dari PT Patra Jasa telah melakukan pendaftaran akun ID SIMPEL dengan nomor registrasi 70420. Namun hingga saat ini belum mendapatkan email kembali terkait akun ID SIMPEL nya, mohon arahannya agar kami dapat segera mendapatkan ID SIMPEL sebagai kebutuhan perizinan lingkungan kami. Terimakasih",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "KODE VERIFIKASI EMAIL TIDAK VALID",
+    "output": "Selamat malam Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong diperjelas untuk pertanyaannya ? terimakasih"
+  },
+  {
+    "input": "register akun simpel kami no 69188 belum berhasil masih dalam antrian statusnya, bisa minta informasinya",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih"
+  },
+  {
+    "input": "belum ada pemberitahuan lanjutan untuk aktifasi akun simpel",
+    "output": "Selamat malam Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama perusahaannya ?, terimakasih"
+  },
+  {
+    "input": "aplikasi SIMPLE tidak dapat dibuka atau diaktifkan",
+    "output": "Selamat malam Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama perusahaannya ?, terimakasih"
+  },
+  {
+    "input": "Saya Kepala Tata Usaha dari PT. Gemilang Bersama Utama Palm Oil belum menerima email berisi username dan password. Saya telah melakukan Registrasi akun namun belum menerima informasi login. Mohon bantuan untuk mengirimkan username dan password akun SIMPEL saya ke alamat email ini (gbupalmoil@gmail.com). Terima Kasih",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Dear : Team Akun simpel Mohon bantuannya untuk akun simpel kami atas nama PT COCACOLA DISTRIBUTION INDONESIA belum ada feedback terkait email akun dan password akun, karena sudah lewat dari 14 hari kerja, mohon dibantu yaa team",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Pendaftaran akun simpel nomer pendaftara 69262 dan 69268 masih belum terbit lebih dari 14 hari kerja, mohon arahan jika terdapat kendala ataupun kesalahan dari tim kita. Terimakasih",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Selamat pagi Sehubungan dengan adanya permohonan pendaftaran SIMPEL PT Roasi Sinergi Industri, dengan ini kami mohon konfirmasi terkait username dan password untuk akses ke SIMPEL sesuai dengan notifikasi pada website SIMPEL nomor registrasi 69542",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Lupa akun dan password untuk beberapa lokasi dikarenakan pergantian orang yang bertanggung jawab untuk mengurus. 1. Erha Clinic Malang, 2. Erha Skin Madiun, 3.Erha Skin Kediri, 4.Erha Ultimate Jember,5. Erha SKin Banyuwangi",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, silahkan mencoba klik lupa password ya Bapak/Ibu, terimakasih"
+  },
+  {
+    "input": "Saya Kepala Tata Usaha dari PT. Gemilang Bersama Utama Palm Oil belum menerima email berisi username dan password. Saya telah melakukan Registrasi akun namun belum menerima informasi login. Mohon bantuan untuk mengirimkan username dan password akun SIMPEL saya ke alamat email ini (gbupalmoil@gmail.com). Terima Kasih",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "tidak dapat login",
+    "output": "Selamat malam Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong diperjelas untuk pertanyannya ?, terimakasih"
+  },
+  {
+    "input": "Konsultasi mengenaiLog In akun SIMPEL",
+    "output": "Selamat Malam Bapak/Ibu, silahkan menanyakan pertanyaan disini ya, kami akan membantu sebisa kami, terimakasih"
+  },
+  {
+    "input": "Mohon bantuan untuk pembuatan akun AMDALNET",
+    "output": "Selamat Pagi Bapak/Ibu, apabila belum memiliki akun AMDALNET, sialhkan membuat akun AMDALNET di portal AMDALNET bisa menggunakan akun OSS RBA. Terimakasih"
+  },
+  {
+    "input": "Email salah",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh dibantu informasikan lebih lanjut mengenai yang salahnya apa ?, terimakasih"
+  },
+  {
+    "input": "Izin bertanya apakah email saya ehs.anugerahpalmoil@gmail.com sudah bisa terdaftar di SIMPEL ya? saya belum mendapatkan verifikasi terdaftar setelah 2 minggu",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Perusahaan belum menyimpan koordinat bagaimana solusinya?",
+    "output": "Selamat malam Bapak/Ibu, silahkan masukkan koordinat latitde longtitude, atau menggeser titik di map yang terdapat dalam web SIMPEL, terimakasih"
+  },
+  {
+    "input": "Dear Administrator SIMPEL Username & Password untuk akses ke SIMPEL belum kita terima, Mohon di kirimkan username dan password u/ login akun simpel dengan no reg sbb: Nomor Registrasi : 68593 Nama : Ferri Dian Subarni Perusahaan/Instansi : PT. Mon Jambee (Meulaboh) Salam PT. Mon Jambee (Meulaboh)",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Permintaan username Dan password untuk Pengajuan Akun dengan nomer registrasi 70514",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Registrasi Akun 70514 sudah Melebihi 14 Hari kerja, namun belum ada balasan untuk username Dan password",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "belum dapat akun sudah 2 kali mendaftar",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan nomor registrasi dan nama perusahannya ? terimakasih"
+  },
+  {
+    "input": "Saya Kepala Tata Usaha dari PT. Gemilang Bersama Utama Palm Oil tidak menerima email berisi username dan password. Saya telah melakukan Registrasi akun namun belum menerima informasi login. Mohon bantuan untuk mengirimkan username dan password akun SIMPEL saya ke alamat email ini (gbupalmoil@gmail.com). Terima kasih atas perhatian dan bantuannya.",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "k",
+    "output": "Selamat malam Bapak/Ibu, silahkan konsltasikan ke kami permasalahan yang ibu alami, silahkan memberikan pertanyaan yang lebih lengkap, terimakasih"
+  },
+  {
+    "input": "Selamat siang bapak/ibu, kami selaku konsultan dari PT Patra Jasa telah melakukan pendaftaran akun ID SIMPEL dengan nomor registrasi 70420. Namun hingga saat ini belum mendapatkan email kembali terkait akun ID SIMPEL nya, mohon arahannya agar kami dapat segera mendapatkan ID SIMPEL sebagai kebutuhan perizinan lingkungan kami. Terimakasih",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Selamat Pagi Bapak/Ibu, Mohon kiranya dapat dibantu untuk user dan password saya sampai dengan hari ini belum Keluar. Tetapi kalau saya lacak registrasi akun, mengapa statusnya sudah dikirim ya? Nomor Registrasi : 68306 Nama : drg. Najib Albana Daulay Perusahaan/Instansi : Praktik drg. Najib Albana Daulay Kami sudah mendaftar pada tanggal 9 Mei 2025 dan sudah melewati 14 hari kerja, karena kami sampai sekarang belum mendapatkan username dan password. Mohon kiranya dapat dibantu untuk dikirimkan username password Bapak/Ibu Terimakasih,",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Saya lacak registrasi ada rejct di tanggal 14 Mei 2025, namun di email tidak ada email masuk",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Dear team Simpel, Mohon informasi progress pendaftaran akun simpel kami pada tanggal : 10 Juni 2025 dengan detail sbb : Nomor Registrasi : 69983 Nama : Endang Retnowati Perusahaan/Instansi : PT Behn Meyer Chemicals Terima kasih",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Mohon info, apabila sudah menunggu 14 hari kerja untuk mendapatkan akun Simpel, dan sampai dengan 14 hari kerja belum mendapatkannya, kirakira bagaimana? Sudah menghubungi email suwwanda@gmail.com tetapi alamat email tidak ditemukan. Sudah Menghubungi email simpel.klhk@gmail.com juga tetapi belum ada respon. Mohon bantuannya, kami perlu menghubungi kemana yaa?",
+    "output": "Selamat malam Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama perusahaannya ?, terimakasih"
+  },
+  {
+    "input": "saya admin dari PT Ardi Putra samawa, kami belum menerima username dan password email dari simple, saya pun udh email tapi belum direspon.",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Mohon informasi bagaiman acaranya untuk berkonsultasi perihal akunt SIMPEL ? Mohon kami diberikan nomer Telpon atau nomer WA yang dapat kami hubungi.",
+    "output": "Selamat malam Bapak/Ibu, silahkan bertanya disini, kami akan membantu sebisa kami, terimakasih"
+  },
+  {
+    "input": "Dear Bapak/Ibu. Saya dari perwakilan Perusahaan PT OCI Material Pratama ingin menanyakan perihal Registrasi Username & Password Akun SIMPEL yang sudah Kami ajukan pada 13 Mei 2025, dengan Nomor Registrasi 68416, lalu di Website SIMPEL bahwa saat ini saya belum menerima balasan terkait Username & Password Akun SIMPEL tersebut. Mohon feedback untuk support ini. Terima kasih Bapak/Ibu. Salam Hangat. Rahmanditya Arseno Putra.",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Nomor registrasi 68300, 68909, 68918 Statusnya Registrasi Selesai dari tgl 14 dan 22 mei namun sampai saat ini belum dapat email username dan password.",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih. Untuk nomor registrasi 68909, lagi kami proses ya, karena ada masalah pada data kami"
+  },
+  {
+    "input": "Dh Administrator SIMPEL Kementrian Lingkungan hidup dan kehutanan Kami dari PT Isuindomas Putra sudah registrasi (No Registrasi 69689) dan sudah menunggu 14 hari kerja namun belum mendapatkan feedback dari email simpel.klhk@gmail.com, terkait Username dan Password untuk akses ke akun SIMPEL Mohon bantuannya untuk username dan password akun SIMPEL Terima kasih PT Isuindomas Putra",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih. Untuk nomor registrasi 68909, lagi kami proses ya, karena ada masalah pada data kami"
+  },
+  {
+    "input": "Untuk atas nama pendaftar Tajun Ramadhan (PT. Wahanatama Hijau Mutiara Mandiri) belum mendapatkan nomor registrasi melalui email",
+    "output": "Selamat malam Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "CARA MENGISI PROFIL",
+    "output": "Selamat malam Bapak/Ibu, sillahkan mengikuti caranya lewat youtube ya, terimakasih"
+  },
+  {
+    "input": "Aplikasi pelaporan Simpel tidak bisa di buka, harus menyertakan \"Tidak pada batas wilayah\" Mohon diaktipkan kembali pada per angkat kami, petunjuk pencerahan agar bisa aktif seperti pelaporan sebelumnya, terimakasih.",
+    "output": "Selamat malam Bapak/Ibu, silahkan masukkan koordinat latitde longtitude, atau menggeser titik di map yang terdapat dalam web SIMPEL, terimakasih"
+  },
+  {
+    "input": "sudah mengirimkan formulir perbaikan pada hari senin tanggal 07 Juli 2025, tetapi sampai saat ini belum mendapatkan username dan passwordnya, harus menunggu berapa lama lagi? mohon bantuannya, terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama Perushaannya ?, terimakasih"
+  },
+  {
+    "input": "mohon informasi pengajuan akun simple untuk PT Sayap Mas Utama DC Bogor yang sudah disubmit dari awal april dan mendapatkan feedback perbaikan pada tanggal 25 april yang kemudian kami sudah submit kembali pengajuannya, namun hingga saat ini belum ada keterangan lebih lanjut",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "selamat siang, kami sdha mendaftarkan pembuatan sprogram simpel namun sampai saat ini kami belum mendapatkan passwordnya. mohon dibantu, terimakasih",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan nomor registrasi dan nama perusahannya ? terimakasih"
+  },
+  {
+    "input": "Selamat siang. Saya sudah registrrasi akun SIMPEL pada saat 1 juli dan sudah melengkapi data. Tetapi kode registrasi tidak kunjung dikirimkan ke email. Bagaimana solusinya? Terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama Perushaannya ?, terimakasih"
+  },
+  {
+    "input": "Saya ingin menanyakan progres pendaftaran akun sistem SIMPEL untuk PT CARKU DAYA INDONESIA",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Saya sudah melakukan registrasi Akun Simpel untuk Nama Perusahaan : Buana Subur Lestari Email : hrm.bsd@grandzuri.com pada tanggal 30 Mei 2025 namun saya belum menerima konfirmasi akun sampai saat ini. Mohon konfirmasi lebih lanjut.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Selamat Siang Ijin bertanya kemarin dari tanggal 13 Juni saya sudah registrasi/membuat akun simpel, Tapi sudah 14 hari kerja belum juga mendapatkan email untuk username dan passwordnya mohon bantuannya agar bisa segera keluar untuk username dan passwordnya terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Selamat pagi, saya Jae Phill Seo dari PT HANDAL SUKSES KARYA, ingin menanyakan perihal Username dan Password untuk mengakses SIMPEL. Pemberitahuan Dari email pada tanggal 09 Juni 2025 Username dan Password akan diberikan setelah 14 hari kerja. Namun sampai saat ini belum ada pemberitahuan username dan password. adapuan nomor registrasi sbb; Nomor Registrasi : 69926 Nama : Jae Phill Seo Perusahaan/Instansi : PT. HANDAL SUKSES KARYA. Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "perubahan nama rs apakah bisa diganti dan logo nya.",
+    "output": "Selamat pagi Bapak/Ibu, untuk pergantian logo bisa diganti cukup edit profile, sedangkan untuk mengganti nama diperlukan legalitas dasar perubahan izin lingkungan, terima kasih"
+  },
+  {
+    "input": "Integrasi akun SIMPEL dengan OSS/AMDALNET",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "Selamat pagi, Perusahaan kami atas nama Peum Perhutani telah melakukan registrasi SIMPEL pada 30 April 2025. Pada email kami belum menerima pemberitahuan lebih lanjut terkait username sehingga sd hari ini kami belum bisa mengisi SIMPEL. Berikut update email yang kami terima : Bapak/Ibu perwakilan Pemda/Dinas/Instansi ykh, Nomor Registrasi : A807 Nama : Nur Elyani Pemda/Dinas/Instansi : Perum Perhutani Username & Password untuk akses ke SIMPEL akan dikirimkan melalui email dalam 14 hari kerja. Terima kasih telah melakukan registrasi akun SIMPEL Kementerian Lingkungan Hidup dan Kehutanan. Terima kasih. Salam, Administrator SIMPEL Kementerian Lingkungan Hidup dan Kehutanan Gedung B lantai 4 Jl. D.I. Panjaitan Kav. 24 Kebon Nanas 13410 Telepon : 021-8520886 Faksimile :021-8580105 Email : simpel.klhk@gmail.com (Pengiriman Akun SIMPEL) Silakan gunakan fitur \"Bantuan\" untuk diskusi dan konsultasi http://simpel.menlhk.go.id/2018/ticket/index/type/data/table/ak_ticket (setelah login SIMPEL) Website http://simpel.menlhk.go.id Kami mohon arahannya. Terimakasih.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan terkait nomor registrasinya ? nomor registrasi yang Bapak/Ibu berikan iu merupakan nomor antrian, nomor registrasi terdiri dari 5 angka, terimakasi"
+  },
+  {
+    "input": "Login lewat amdfalnet pakai id oss gimana selalu invalid? tapi disuruh sinkronisasi terus",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET."
+  },
+  {
+    "input": "selamat pagi, berdasarkan pelacakan registrasi akun di web https://simpel.menlhk.go.id/2023/login, username dan password telah terkirim ke email hrd.bkgroup@gmail.com tgl 9 Juli 2025, namun kami belum mendapatkan email tersebut. bisakah dibantu untuk kirim ulang username dan passwordny? terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Username dan password. mohon dapat diinformasikan ke kami trims",
+    "output": "Selamat Siang, Bapak/Ibu, mohon maaf atas kendala yang dialaminya, untuk pertanyaan apakah bisa lebih jelas terkait dengan apa ? terimakasih"
+  },
+  {
+    "input": "Saya sudah melengkapi formulir registrasi dengan mencantumkan materai dan cap perusahaan tetapi sampai sekarang saya belum menerima akses untuk log in ke web simpel ini. Akapah ada kendala lain? jika ada tolong konfirmasi via email saya",
+    "output": "Selamat malam Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama perusahaannya ?, terimakasih"
+  },
+  {
+    "input": "TIDAK BISA BUKA SIMPEL",
+    "output": "Selamat siang Bapak/Ibu mohon maaf atas kendala yang dialaminya,, boleh tolong diperjelas pertanyaannya ? terimakasih"
+  },
+  {
+    "input": "Mohon bantuan dan bimbingan untuk melakukan sinkronisasi akun simpel dengan amdalnet. Terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET, Terimakasih"
+  },
+  {
+    "input": "- Cara daftar akun amdalnet - Cara sinkronisasi akun OSS/amdalnet san simpel",
+    "output": "Selamat Pagi Bapak/Ibu, silahkan login AMDALNET menggunakan akun OSS, setelah berhasil login AMDALNET menggunakan akun OSS, silahkan login SIMPEL menggunakan akun AMDALNET"
+  },
+  {
+    "input": "Untuk penggantian nama perusahaan di SIMPEL bagaimana pak? saat ini perusahaan kami sudah berganti nama dari PT Able Commodities Indonesia menjadi PT Agro Raya Mas. Apakah ada berkas yang diperlukan untuk perubahan nama di Akun SIMPEL pak? Terimakasih pak",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang diialamiinya, unutk berkas yang diperlukan ialah legalitas dasar perubahan (izin lignkungan). Terimakasih"
+  },
+  {
+    "input": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih.",
+    "output": "Yth, Bapak/Ibu Pengelola SIMPEL Di tempat Mohon izin menginformasikan bahwa kami telah melakukan registrasi akun di aplikasi SIMPEL pada tanggal 20-Jun-2025, dengan Nomor Registrasi : 70906 Nama : Supandi Perusahaan/Instansi : PT. Paparti Pertama, Email registrasi : 4p.woodland@gmail.com. Namun, meskipun sistem menyatakan email sudah dikirim pada tanggal 10-Jul-2025, sampai saat ini kami belum menerima email akun tersebut. Saya mencoba menganalisa email yang dikirim melalui sistem adalah email 4p.wo******gmail.com (dua puluh karakter huruf ) sedangkan email terdaftar 4p.woodland@gmail.com ( dua puluh satu karakter huruf ) Mohon bantuannya untuk pengecekan lebih lanjut. Jika berkenan mungkin bisa kirim via chat Whatsapp ke nomor ini 0857 2295 4549 . Terima kasih sebelumnya atas bantuannya. -- PT. PAPARTI PERTAMA Km 2 Cibadak, Kab. Sukabumi . Jawa Barat"
+  },
+  {
+    "input": "Verifikasi email selalu gagal untuk pendaftaran SIMPEL",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, silahkan menggunakan email lain ya Bapak/Ibu terimasikasih"
+  },
+  {
+    "input": "saya hendak mendaftar akun simpel kenapa gagal terus pada proses verifikasi email ya ? terima kasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, silahkan menggunakan email lain ya Bapak/Ibu terimasikasih"
+  },
+  {
+    "input": "Saat ini AKUN Tidak Aktif, silahkan hubungi Administrator SIMPEL",
+    "output": "Selamat pagi Bapak/Ibu, ada yang bisa dibantu ? terimakasih"
+  },
+  {
+    "input": "Tidak bisa registrasi akun baru, kode verivikasi tdk masuk ke email yg sdh di daftarkan",
+    "output": "Selamat siang Bapak/Ibu, mohon maaf atas kendala yang dialaminya, silahkan menggunakan email lain ya, terimakasih"
+  },
+  {
+    "input": "tidak menerima verifikasi kode dari email, untuk registrasi akun SIMPLE",
+    "output": "Selamat malam Bapak/Ibu mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama perusahaannya ?, terimakasih"
+  },
+  {
+    "input": "Tidak bisa melakukan registrasi karena kode verifikasi tidak dikirim.",
+    "output": "Selamat pagi Bapak/Ibu mohon maaf atas kendala yang dialaminya, coba menggunakan email lain ya, terimakasih"
+  },
+  {
+    "input": "Kemarin kami registrasi akun tapi tidak ada notif \"registrasi berhasil\" dan tidak ada menerima email yang berisi \"nomor registrasi\". Hari ini kami coba registrasi lagi muncul notif \"REGISTRASI SIMPEL GAGAL Email telah di daftarkan, silahkan gunakan email lain\". Mohon info dan petunjuknya ini bagaimana ya? apakah sudah berhasil di daftarkan atau belom? Kalo sudah, knapa kami tidak ada menerima email berisi NO Registrasi? Trimakasih",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, data registrasi anda sudah masuk ke data kami dengan nama perusahaan PT.Charoen Pokphand Jaya Farm, sudah kami set untuk username dan passwordnya, silahkan mengecek pada email yang terdaftar sebelumnya ya, terimakasih"
+  },
+  {
+    "input": "Sinkronisasi akun",
+    "output": "Selamat pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tollong berikan pertanyaaan lebih jelasnya ?, terimakasih"
+  },
+  {
+    "input": "saya sudah mengisi semua data untuk mendaftar akun simpel tapi sudah 12 hari belum ada email masuk. dan ada tulisan bahwa dipastikan formulir tidak berwarna hitam putih padahal yg saya kirimkan sudah sesuai",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama Perushaannya ?, terimakasih"
+  },
+  {
+    "input": "kok g bs daftar y",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang daialaminya, tidak bisa daftarnya dibagian mana ya ? boleh tolong dibantu, terimakasih"
+  },
+  {
+    "input": "saya tidak dapat buat akaun SIMPEL Email tidak dapat di ferivikasi",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, boleh tolong dibantu informasikan Nomor Registrasi atau nama Perushaannya ?, terimakasih"
+  },
+  {
+    "input": "Selamat sore Bapak/Ibu, mau menanyakan perihal akun simple dengan Nomor Registrasi : 71505 Nama : YANTI Perusahaan/Instansi : PT GODAY FOOD BUKIT INDAH, ini kira kira akunnya kapan bisa turun y?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Dengan nomor registrasi : 69425 Setelah saya lacak infonya sudah diemailkan tetapi tidak ada.",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Mohon konfirmasi update proses registrasi akun SIMPEL PLTMG Langgur dengan nomor registrasi 71901. Terimakasih",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, Kami sudah melakukan pembuatan akun Bapak/Ibu, untuk username dan password silahkan dicek pada email yang terdaftar, Terimakasih."
+  },
+  {
+    "input": "Mohon bantuannya terkait pembuatan akun SIMPEL PT. Lianhua Leather Industry",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang dialaminya, untuk nama perusahaannya apakah sudah benar ? masalahnya kami berdasarkan nama perusahaan tersebut, tidak ada datanya. Atau boleh tolong diinformasikan nomor registrasinya ?"
+  },
+  {
+    "input": "bagaimana caranya mengetahui usernamr dan pasword yang sudah pernah dibuaat tetapi lupa dan bagaimana cara registrasi ulang dan perbaikan data?",
+    "output": "Selamat Pagi Bapak/Ibu, mohon maaf atas kendala yang daialaminya,Silahkan dicoba klik lupa password ya Bapak/Ibu, Terimakasih"
+  }
+]
